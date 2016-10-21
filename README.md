@@ -141,6 +141,7 @@ Table of Contents
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
    * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
    * http://www.securitytube.net/ - World’s largest Infosec and Hacking Portal.
+   * https://www.cybrary.it/course/web-application-pen-testing/ - Covers Web Application Pentesting and also lot other topics. A wholesome package for everything security.
 
 ## Labs
 
@@ -148,6 +149,7 @@ Table of Contents
    * https://www.vulnhub.com/ - Virtual Machines for Localhost Penetration Testing.
    * https://pentesterlab.com/ - PentesterLab is an easy and great way to learn penetration testing.
    * https://github.com/jerryhoff/WebGoat.NET - This web application is a learning platform about common web security flaws.
+   * https://github.com/OWASP/SecurityShepherd - OWASP Vulnerable Web Application covering a broad scope of vulnerabilities.
    * http://www.dvwa.co.uk/ - Damn Vulnerable Web Application (DVWA)
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
@@ -160,6 +162,7 @@ Table of Contents
    * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
    * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
    * https://filippo.io/Heartbleed/ - A checker (site and tool) for CVE-2014-0160 (Heartbleed).
+   * https://testssl.sh/ - Shell script to do a comprehensive check of SSL/TLS from the command line.
 
 ## Security Ruby on Rails
 
